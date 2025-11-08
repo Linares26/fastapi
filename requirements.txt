@@ -1,5 +1,6 @@
 fastapi[standard]
 python-jose
 passlib
-bycrypt
+cryptography
+bcrypt
 pymongo
