@@ -3,8 +3,6 @@
         {
             "src": "main.py", 
             "use": "@vercel/python",
-            "config": {
-                "runtime": "python3.10" 
             }
         }
     ], 
